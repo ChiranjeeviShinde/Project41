@@ -4,6 +4,8 @@ var gameState =0;
 var playerCount = 0;
 var allPlayers;
 
+var score = 0;
+
 var player, form,game;
 var player1,player2;
 var players;
