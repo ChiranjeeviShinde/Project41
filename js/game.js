@@ -62,8 +62,8 @@ class Game{
 
                      textSize(25);
                      fill(255);
-                     text("Player 1 : " + allPlayers.player1.score,70,50);
-                     text("Player 2 : " + allPlayers.player2.score,70,100);
+                     text("Player 1 : " + allPlayers.player1.score,50,50);
+                     text("Player 2 : " + allPlayers.player2.score,50,100);
                     
                  }
 
