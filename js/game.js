@@ -56,7 +56,7 @@ class Game{
                      if(index === player.index){
                          textSize(25);
                          fill(0);
-                         textAlign(CENTER);
+                         //textAlign(CENTER);
                          text(allPlayers[plr].name,players[index-1].x-25,players[index-1].y+25);
                      }
 
